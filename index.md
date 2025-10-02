@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# 👋 Hi, I’m Alizea Alvarez-Sookram
+# 👋 Hi, I’m Alizea Alvarez-Sookram, LMSW
 
 **Focus:** Evaluation • Data Governance • Policy & Ethics  
 
