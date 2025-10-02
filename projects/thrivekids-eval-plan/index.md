@@ -4,9 +4,9 @@ title: ThriveKids Evaluation Plan
 ---
 
 # 🌱 ThriveKids Evaluation Plan
-**Role:** Graduate Consultant – Children’s Hospital New Orleans (ThriveKids Program)  
-**Timeline:** Summer 2025  
-**Focus:** Outcome Evaluation & Monitoring Frameworks  
+**Role:** Graduate Consultant – Children’s Hospital New Orleans (ThriveKids Program)     
+**Timeline:** Summer 2025    
+**Focus:** Outcome Evaluation & Monitoring Frameworks     
 
 ## 📌 Overview
 ThriveKids provides care coordination, school-based mental health services, and outpatient supports for students across Orleans and Jefferson Parish schools. The program wanted to better understand its impact on student well-being and academic performance but lacked a structured system for evaluation. I was engaged to design a comprehensive evaluation plan that included measurable indicators, data collection strategies, and culturally responsive frameworks.
