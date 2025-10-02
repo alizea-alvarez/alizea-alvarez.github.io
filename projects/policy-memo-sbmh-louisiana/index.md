@@ -4,9 +4,9 @@ title: Policy Memo - School-Based Mental Health (SBMH)
 ---
 
 # 📝 Policy Memos – School-Based Mental Health (SBMH)
-**Role:** Policy Analyst – PAF 505: Public Policy, Arizona State University  
-**Timeline:** Summer 2025  
-**Focus:** Policy Analysis & Evidence-Based Recommendations  
+**Role:** Policy Analyst – PAF 505: Public Policy, Arizona State University   
+**Timeline:** Summer 2025   
+**Focus:** Policy Analysis & Evidence-Based Recommendations   
 
 
 ## 📌 Overview
