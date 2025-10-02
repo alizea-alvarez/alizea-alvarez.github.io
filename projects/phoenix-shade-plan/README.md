@@ -27,15 +27,10 @@ Phoenix’s Shade Plan aims to expand equitable access to cooling infrastructure
 
 ## 🛠️ Skills
 - **Evaluation Design & Governance:** Developed phased project framework, governance model outline, and criteria for reportable data to strengthen accountability and consistency.
-
 - **Project Planning:** Created project charter, outline, and week-by-week work plan to structure applied capstone and city deliverables.
-
 - **Data Organization:** Compiled citywide Shade Plan metrics in Excel, aligning departmental responsibilities, milestones, and impact indicators.
-
 - **Applied Research Methods:** Conducted literature review, comparative case studies, and stakeholder-informed design to ground recommendations in tested practices.
-
 - **Governance Framework Development:** Designed Standard of Work draft, liaison accountability structure, submission templates, and feedback loops for sustainable interdepartmental reporting.
-
 - **Communication & Stakeholder Engagement:** Translated findings into accessible deliverables for OHRM leadership and staff, ensuring usability and adoption. 
 
 ## 🌟 Impact
