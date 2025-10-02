@@ -5,7 +5,7 @@ title: ThriveKids Evaluation Plan
 
 # 🌱 ThriveKids Evaluation Plan
 **Role:** Graduate Consultant – Children’s Hospital New Orleans (ThriveKids Program)     
-**Timeline:** Summer 2025    
+**Timeline:** Summer 2025 **(Ongoing)**    
 **Focus:** Outcome Evaluation & Monitoring Frameworks     
 
 ## 📌 Overview
