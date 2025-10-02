@@ -12,15 +12,15 @@ title: Phoenix Shade Data Plan
 Phoenix’s Shade Plan aims to expand equitable access to cooling infrastructure citywide, but lacked a coordinated system for tracking shade metrics across departments. I was brought on to design a governance framework, data standards, and accountability structures that would enable the City to measure progress, report on milestones, and prepare for future integration of AI and climate analytics.  
 
 ## 🔄 My Process
-- **Project Charter & Work Plan** → Defined goals, research questions, methodology, and phased deliverables.
+- **[Project Charter & Work Plan (PDF)](ShadePlan-Project-Charter.pdf)** → Defined goals, research questions, methodology, and phased deliverables.
 - **Literature Review & Benchmarking** → Analyzed international case studies and U.S. city strategies to identify best practices in data governance.
 - **Data Centralization** → Compiled shade metrics into an Excel-based tracker, mapping departmental responsibilities, milestones, and reporting indicators.
 - **Governance Framework** → Designed a four-phase model including Standards of Work, liaison networks, submission templates, and centralized reporting.
 - **Collaboration** → Presented synthesized findings and draft models to OHRM leadership, gathering feedback and refining deliverables.
 
 ## 📂 Key Deliverables
-- **Literature Review:** Evidence-based recommendations, blending municipal practice with academic research. **Completed**
-- **Criteria for Data Collection:** Draft guidance for ensuring metrics are consistent and reportable. **Completed**
+- **[Literature Review (PDF)](ShadePlan-Literature-Review.pdf):** Evidence-based recommendations, blending municipal practice with academic research. **Completed**
+- **[Criteria for Data Collection (PDF)](ShadePlan-Data-Criteria.pdf):** Draft guidance for ensuring metrics are consistent and reportable. **Completed**
 - **Excel System:** Centralized shade metrics by department, with milestones and responsibilities. **Ongoing** 
 - **Draft Standard of Work (SoW):** Outlined rules, templates, and reporting standards for departmental submissions. **Ongoing**
 - **Governance Model:** A framework balancing standardization, flexibility, and accountability across departments. **Ongoing**
