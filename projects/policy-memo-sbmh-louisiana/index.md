@@ -24,8 +24,9 @@ As part of my Public Policy coursework, I completed a series of staged assignmen
 ## 📂 Key Deliverables
 - **Final Policy Memo:** Governing Emerging Technologies: Policy Options for AI Tools in Youth Mental Health.
 - **Three Policy Briefs:** Shorter analyses supporting the final recommendation.
-- **Comparative Policy Table:** Synthesized options with strengths/weaknesses.
-- **Annotated Research Base:** Academic, regulatory, and practitioner sources. 
+            - *Characterizing the Policy Problem: AI in Youth Mental Health*
+            - *From Alerts to Care: Governing AI That Detects and Supports Youth in Crisis*
+            - *Policy Options for AI Tools in Youth Mental Health*
 
 ## 🛠️ Skills
 - **Policy Analysis:** Problem definition, option evaluation, political context.
