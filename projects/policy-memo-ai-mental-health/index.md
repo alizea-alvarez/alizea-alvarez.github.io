@@ -4,9 +4,9 @@ title: Policy Analysis - AI & Youth Mental Health
 ---
 
 # 📝 Policy Analysis – AI & Youth Mental Health
-**Role:** Policy Analyst – PAF 509: Public Policy (ASU)
-**Timeline:** Summer 2025
-**Focus:** Policy Options for Governing Emerging Technologies 
+**Role:** Policy Analyst – PAF 509: Public Policy (ASU)   
+**Timeline:** Summer 2025   
+**Focus:** Policy Options for Governing Emerging Technologies   
 
 ## 📌 Overview
 During my Public Policy course, I conducted a multi-stage policy analysis examining how artificial intelligence (AI) tools — including chatbots and early-warning systems — are entering youth mental health spaces. The central policy question: How should policymakers govern emerging AI technologies to maximize benefits while mitigating risks for youth well-being? 
