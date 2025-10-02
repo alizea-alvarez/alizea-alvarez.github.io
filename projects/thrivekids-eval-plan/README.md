@@ -15,7 +15,7 @@ ThriveKids provides care coordination, school-based mental health services, and 
 - **[Final Evaluation Report (PDF)](Final-Evaluation-Design-ThriveKids.pdf):** Comprehensive design outlining the framework, methods, and equity-driven approach for evaluating ThriveKids across schools, JJIC, and trauma unit.  
 - **[Outcome Evaluation Plan (PDF)](ThriveKids-Outcome-Evaluation-Plan.pdf):** Defined short-, medium-, and long-term outcomes with measurable indicators.  
 - **[M&E Plan (PDF)](ME-Plan-ThriveKids.pdf):** Tools and matrices for tracking progress, linked to program goals.  
-- **[Logic Model & Theory of Change (PDF)](Logic-Model-ThriveKids.pdf):** Visual representation of ThriveKids’ pathway to impact.  
+- **[Logic Model (PDF)](Logic-Model-ThriveKids.pdf):** Visual representation of ThriveKids’ pathway to impact.  
 - **[Program Description & Theory of Change (PDF)](Program-Description-Theory-of-Change.pdf):** Full program description, need statement, stakeholder analysis, and theory of change narrative.  
 - **Data Governance Model & Toolkit (Ongoing):** Guidance to strengthen ThriveKids’ ability to collect, manage, and share high-quality, equitable, and secure data that supports outcome evaluation, inter-organizational collaboration, and long-term impact measurement.
 
