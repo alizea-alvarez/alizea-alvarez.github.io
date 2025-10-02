@@ -4,9 +4,9 @@ title: Phoenix Shade Data Plan
 ---
 
 # 🌳 Phoenix Shade Data Plan
-**Role:** Evaluation Consultant – Office of Heat Response & Mitigation (OHRM), City of Phoenix
-**Timeline:** Fall 2025 – Ongoing  
-**Focus:** Data Governance & Interdepartmental Accountability  
+**Role:** Evaluation Consultant – Office of Heat Response & Mitigation (OHRM), City of Phoenix   
+**Timeline:** Fall 2025 – Ongoing   
+**Focus:** Data Governance & Interdepartmental Accountability    
 
 ## 📌 Overview
 Phoenix’s Shade Plan aims to expand equitable access to cooling infrastructure citywide, but lacked a coordinated system for tracking shade metrics across departments. I was brought on to design a governance framework, data standards, and accountability structures that would enable the City to measure progress, report on milestones, and prepare for future integration of AI and climate analytics.  
