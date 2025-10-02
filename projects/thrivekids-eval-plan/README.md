@@ -12,10 +12,11 @@ title: ThriveKids Evaluation Plan
 ThriveKids provides care coordination, school-based mental health services, and outpatient supports for students across Orleans and Jefferson Parish schools. The program wanted to better understand its impact on student well-being and academic performance but lacked a structured system for evaluation. I was engaged to design a comprehensive evaluation plan that included measurable indicators, data collection strategies, and culturally responsive frameworks.
 
 ## 📂 Key Deliverables
+- **Final Evaluation Report:**
 - **Outcome Evaluation Plan:** Defined short-, medium-, and long-term outcomes with measurable indicators.
 - **M&E Plan:** Tools and matrices for tracking progress, linked to program goals.
 - **Logic Model & Theory of Change:** Visual representation of ThriveKids’ pathway to impact.
-- **Recommendations:** Guidance for strengthening data collection and aligning measures to program objectives.
+- **Data Governance Model & Toolkit:** Guidance to strengthen ThriveKids’ ability to collect, manage, and share high-quality, equitable, and secure data that supports outcome evaluation, inter-organizational collaboration, and long-term impact measurement. **Ongoing**
 
 ## 🛠️ Skills
 - **Evaluation Design:** Logic models, theories of change, outcome mapping, indicator frameworks.
