@@ -35,10 +35,8 @@ These projects represent my shift from micro-level work into macro and mezzo spa
 
 <p>
   <a href="Alvarez-Sookram-Alizea-Resume.pdf" target="_blank" rel="noopener noreferrer" 
-     style="display:inline-block; padding:10px 18px; background-color:#ff6600; color:#fff; 
-            text-decoration:none; border-radius:50px; font-weight:bold;">
+     style="display:inline-block; padding:10px 18px; background-color:#2e8b57; color:#fff; 
+            text-decoration:none; border-radius:6px; font-weight:bold;">
     🍴 Like a Good Menu – Check Out My Resume
   </a>
 </p>
-
-
