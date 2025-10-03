@@ -12,7 +12,7 @@ title: Phoenix Shade Data Plan
 Phoenix’s Shade Plan aims to expand equitable access to cooling infrastructure citywide, but lacked a coordinated system for tracking shade metrics across departments. I was brought on to design a governance framework, data standards, and accountability structures that would enable the City to measure progress, report on milestones, and prepare for future integration of AI and climate analytics.  
 
 ## 🔄 My Process
-- **[Project Charter & Work Plan (PDF)](ShadePlan-Project-Charter.pdf)** → Defined goals, research questions, methodology, and phased deliverables.
+- **[Project Charter & Work Plan (PDF)](Developing-a-Centralized-Standardized-Data-Collection-Framework-for-the-Phoenix-Shade-Plan.pdf)** → Defined goals, research questions, methodology, and phased deliverables.
 - **Literature Review & Benchmarking** → Analyzed international case studies and U.S. city strategies to identify best practices in data governance.
 - **Data Centralization** → Compiled shade metrics into an Excel-based tracker, mapping departmental responsibilities, milestones, and reporting indicators.
 - **Governance Framework** → Designed a four-phase model including Standards of Work, liaison networks, submission templates, and centralized reporting.
