@@ -19,7 +19,7 @@ Phoenix’s Shade Plan aims to expand equitable access to cooling infrastructure
 - **Collaboration** → Presented synthesized findings and draft models to OHRM leadership, gathering feedback and refining deliverables.
 
 ## 📂 Key Deliverables
-- **<a href="ShadePlan-Literature-Review.pdf" target="_blank" rel="noopener noreferrer">Literature Review (PDF)</a>:** Evidence-based recommendations, blending municipal practice with academic research. **Completed**
+- **<a href="Insights-for-Phoenix’s-Shade-Data-Plan-Literature-Review-&-Research.pdf.pdf" target="_blank" rel="noopener noreferrer">Literature Review (PDF)</a>:** Evidence-based recommendations, blending municipal practice with academic research. **Completed**
 - **<a href="ShadePlan-Data-Criteria.pdf" target="_blank" rel="noopener noreferrer">Criteria for Data Collection (PDF)</a>:** Draft guidance for ensuring metrics are consistent and reportable. **Completed**
 - **Excel System:** Centralized shade metrics by department, with milestones and responsibilities. **Ongoing** 
 - **Draft Standard of Work (SoW):** Outlined rules, templates, and reporting standards for departmental submissions. **Ongoing**
