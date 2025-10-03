@@ -16,10 +16,10 @@ This portfolio highlights some of the projects I’ve worked on in evaluation, d
 This means helping organizations not only learn from their programs but also set up the structures, standards, and governance practices that make ongoing, equity-driven evaluation feasible.
 
 ## 🌟 Featured Projects
-- 🌳 [Phoenix Shade Data Plan](projects/phoenix-shade-plan/)  
-- 🌱 [ThriveKids Evaluation Plan](projects/thrivekids-eval-plan/)  
-- 🤖 [AI & Youth Mental Health](projects/policy-memo-ai-mental-health/)  
-- 📝 [School-Based Mental Health in Louisiana](projects/policy-memo-sbmh-louisiana/)  
+- 🌳 <a href="projects/phoenix-shade-plan/" target="_blank" rel="noopener noreferrer">Phoenix Shade Data Plan</a>  
+- 🌱 <a href="projects/thrivekids-eval-plan/" target="_blank" rel="noopener noreferrer">ThriveKids Evaluation Plan</a>  
+- 🤖 <a href="projects/policy-memo-ai-mental-health/" target="_blank" rel="noopener noreferrer">AI & Youth Mental Health</a>  
+- 📝 <a href="projects/policy-memo-sbmh-louisiana/" target="_blank" rel="noopener noreferrer">School-Based Mental Health in Louisiana</a>  
 
 ## 👩‍💻 About Me
 I’m a social worker by training and a current Master’s student in Program Evaluation & Data Analytics at Arizona State University, graduating in December 2025. My career started in direct practice, but I realized I wanted to take the values that guide me, equity, justice, and community voice, and bring them into the systems that shape programs on a larger scale.  
@@ -33,5 +33,5 @@ So far, I’ve:
 
 These projects represent my shift from micro-level work into macro and mezzo spaces, shaping systems and policies that can sustain real social change. Outside of work and school, I’m a curious traveler and avid fiction reader, always looking for the next city, country, or local market stall to visit. I really believe the best way to learn about a place and its culture is through its food, where history, community, and creativity all come together.
 
-🍴 Like a good menu, my resume gives you a taste of what I bring to the table. [Download it here.](Alvarez-Sookram-Alizea-Resume.pdf)
+🍴 Like a good menu, my resume gives you a taste of what I bring to the table. <a href="Alvarez-Sookram-Alizea-Resume.pdf" target="_blank" rel="noopener noreferrer">Download it here.</a>
 
