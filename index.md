@@ -28,7 +28,7 @@ That’s what led me into evaluation and data analysis. I see evaluation not jus
 
 So far, I’ve:  
 - Partnered with the City of Phoenix to design a governance model for its Shade Data Plan.  
-- Developed outcome evaluation frameworks and data audits for ThriveKids, a youth mental health initiative in New Orleans.  
+- Developed structured evaluation frameworks for ThriveKids, a youth mental health initiative in New Orleans.  
 - Analyzed policy options around school-based mental health and the use of AI in youth well-being.  
 
 These projects represent my shift from micro-level work into macro and mezzo spaces, shaping systems and policies that can sustain real social change. Outside of work and school, I’m a curious traveler and avid fiction reader, always looking for the next city, country, or local market stall to visit. I really believe the best way to learn about a place and its culture is through its food, where history, community, and creativity all come together.
