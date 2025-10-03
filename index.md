@@ -33,5 +33,12 @@ So far, I’ve:
 
 These projects represent my shift from micro-level work into macro and mezzo spaces, shaping systems and policies that can sustain real social change. Outside of work and school, I’m a curious traveler and avid fiction reader, always looking for the next city, country, or local market stall to visit. I really believe the best way to learn about a place and its culture is through its food, where history, community, and creativity all come together.
 
-🍴 Like a good menu, my resume gives you a taste of what I bring to the table. <a href="Alvarez-Sookram-Alizea-Resume.pdf" target="_blank" rel="noopener noreferrer">Download it here.</a>
+<p>
+  <a href="Alvarez-Sookram-Alizea-Resume.pdf" target="_blank" rel="noopener noreferrer" 
+     style="display:inline-block; padding:10px 18px; background-color:#ff6600; color:#fff; 
+            text-decoration:none; border-radius:50px; font-weight:bold;">
+    🍴 Like a Good Menu – Check Out My Resume
+  </a>
+</p>
+
 
