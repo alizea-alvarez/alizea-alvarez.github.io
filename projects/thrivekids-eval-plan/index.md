@@ -16,8 +16,7 @@ ThriveKids provides care coordination, school-based mental health services, and 
 - **<a href="ThriveKids-Outcome-Evaluation-Plan.pdf" target="_blank" rel="noopener noreferrer">Outcome Evaluation Plan (PDF)</a>:** Defined short-, medium-, and long-term outcomes with measurable indicators.   
 - **<a href="ME-Plan-ThriveKids.pdf" target="_blank" rel="noopener noreferrer">M&E Plan (PDF)</a>:** Tools and matrices for tracking progress, linked to program goals.   
 - **<a href="Logic-Model-ThriveKids.pdf" target="_blank" rel="noopener noreferrer">Logic Model (PDF)</a>:** Visual representation of ThriveKids’ pathway to impact.   
-- **<a href="Program-Description-Theory-of-Change.pdf" target="_blank" rel="noopener noreferrer">Program Description & Theory of Change (PDF)</a>:** Full program description, need statement, stakeholder analysis, and theory of change narrative.   
-- **Data Governance Model & Toolkit (Ongoing):** Guidance to strengthen ThriveKids’ ability to collect, manage, and share high-quality, equitable, and secure data that supports outcome evaluation, inter-organizational collaboration, and long-term impact measurement.   
+- **<a href="Program-Description-Theory-of-Change.pdf" target="_blank" rel="noopener noreferrer">Program Description & Theory of Change (PDF)</a>:** Full program description, need statement, stakeholder analysis, and theory of change narrative.     
 
 ## 🛠️ Skills
 - **Evaluation Design:** Logic models, theories of change, outcome mapping, indicator frameworks.
