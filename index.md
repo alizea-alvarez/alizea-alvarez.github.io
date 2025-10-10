@@ -5,7 +5,11 @@ title: Home
 
 # 👋 Hi, I’m Alizea Alvarez-Sookram, LMSW
 
-**Focus:** Evaluation • Data Governance • Policy & Ethics  
+**Focus:** Evaluation • Data Governance • Policy & Ethics   
+
+> *Always learning, always building — open to every opportunity that challenges, teaches, and expands what I know.*
+
+<br>
 
 Welcome! I'm Alizea Alvarez-Sookram, and I believe good data and thoughtful evaluation can drive meaningful change, especially when equity, collaboration, and community voice are at the core.  
 
@@ -33,4 +37,10 @@ So far, I’ve:
 
 These projects represent my shift from micro-level work into macro and mezzo spaces, shaping systems and policies that can sustain real social change. Outside of work and school, I’m a curious traveler and avid fiction reader, always looking for the next city, country, or local market stall to visit. I really believe the best way to learn about a place and its culture is through its food, where history, community, and creativity all come together.
 
-🍴 Like a good menu, my resume gives you a taste of what I bring to the table. <a href="Alvarez-Sookram-Alizea-Resume.pdf" target="_blank" rel="noopener noreferrer">Download it here.</a>
+🍴 Like a good menu, my resume gives you a taste of what I bring to the table. <a href="Alvarez-Sookram-Alizea-Resume.pdf" target="_blank" rel="noopener noreferrer">Download it here.</a>    
+
+---   
+## 🔭 Looking Ahead
+While my applied projects have built a strong foundation in evaluation, governance, and policy analysis, I’m far from finished learning. I’m deeply curious and open to exploring new fields, ideas, and challenges, from data ethics and technology policy to community development, social justice, and beyond.     
+
+I see every opportunity as a chance to stretch what I know and to connect evaluation to new contexts and conversations. If you’re here because you’re looking for someone thoughtful, adaptable, and eager to grow, I hope you’ll reach out. I’m open to projects, collaborations, and learning experiences that don’t fit neatly into what I’ve already done!
