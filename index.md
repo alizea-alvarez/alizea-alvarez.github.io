@@ -48,7 +48,7 @@ I see every opportunity as a chance to stretch what I know and to connect evalua
 ---    
 ## 📬 Get in Touch
 <p>
-  <a href="[https://www.linkedin.com/in/alizea-alvarez-sookram/](https://www.linkedin.com/in/alizea-alvarez-sookram/)" target="_blank" rel="noopener noreferrer" 
+  <a href="https://www.linkedin.com/in/alizea-alvarez-sookram/" target="_blank" rel="noopener noreferrer" 
      style="text-decoration:none; margin-right:15px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
          width="24" height="24" alt="LinkedIn"> LinkedIn
