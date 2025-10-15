@@ -44,3 +44,18 @@ These projects represent my shift from micro-level work into macro and mezzo spa
 While my applied projects have built a strong foundation in evaluation, governance, and policy analysis, I’m far from finished learning. I’m deeply curious and open to exploring new fields, ideas, and challenges, from data ethics and technology policy to community development, social justice, and beyond.     
 
 I see every opportunity as a chance to stretch what I know and to connect evaluation to new contexts and conversations. If you’re here because you’re looking for someone thoughtful, adaptable, and eager to grow, I hope you’ll reach out. I’m open to projects, collaborations, and learning experiences that don’t fit neatly into what I’ve already done!
+
+---    
+## 📬 Get in Touch
+<p>
+  <a href="[https://www.linkedin.com/in/alizea-alvarez-sookram/](https://www.linkedin.com/in/alizea-alvarez-sookram/)" target="_blank" rel="noopener noreferrer" 
+     style="text-decoration:none; margin-right:15px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
+         width="24" height="24" alt="LinkedIn"> LinkedIn
+  </a>
+
+  <a href="mailto:sookramalizea@gmail.com" style="text-decoration:none;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" 
+         width="24" height="24" alt="Email"> Email
+  </a>
+</p>
